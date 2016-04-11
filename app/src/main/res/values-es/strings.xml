@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Just Java</string>
+    <string name="cAddChocolate">SZOKO <xliff:g id="addChocolate" example="true">%1$b</xliff:g></string>
+    <string name="cAddWhippedCream">smetana <xliff:g id="addWhippedCream" example="true">%1$b</xliff:g></string>
+    <string name="cQuantity">quanta na mera <xliff:g id="xlQuantity" example="3">%1$s</xliff:g></string>
+    <string name="cThankYou">spasiba</string>
+    <string name="cTotal">totalos <xliff:g id="xlTotal" example="4">%1$s</xliff:g></string>
+    <string name="chkbox_chocolate">szoko</string>
+    <string name="chkbox_whippedcream">smeta</string>
+    <string name="email">email</string>
+    <string name="emailSubject">justjava ordjello <xliff:g id="xlName" example="John Smith">%1$s</xliff:g></string>
+    <string name="entername">namioza</string>
+    <string name="lessthan1">no lesso dan uno</string>
+    <string name="morethan100">no morro dan 100</string>
+    <string name="name"><xliff:g id="xlName" example="John Smith">%1$s</xliff:g> imieno</string>
+    <string name="order">ordero</string>
+    <string name="price">cenneo</string>
+    <string name="quantity">skolko</string>
+    <string name="toppings">additives</string>
+</resources>

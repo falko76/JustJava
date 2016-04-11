@@ -1,0 +1,21 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Tylko Java</string>
+    <string name="chkbox_whippedcream">Smietanka (+ $1)</string>
+    <string name="chkbox_chocolate">Czeokoaldka(+ $2)</string>
+    <string name="entername">Podaj swoje imię</string>
+    <string name="quantity">ILOŚĆ</string>
+    <string name="toppings">DODATKI</string>
+    <string name="price">CENA</string>
+    <string name="order">Zamów</string>
+    <string name="email">EMAIL</string>
+
+    <string name="name">Imię <xliff:g id="xlName" example="John Smith">%1$s</xliff:g></string>
+    <string name="morethan100">Nie może być więcej niż 100</string>
+    <string name="lessthan1">Nie może być mniej niż 1</string>
+    <string name="cAddWhippedCream">Smietanka ? <xliff:g id="addWhippedCream" example="true">%1$b</xliff:g></string>
+    <string name="cAddChocolate">Czekoladka ?<xliff:g id="addChocolate" example="true">%1$b</xliff:g></string>
+    <string name="cQuantity">Ilosc: <xliff:g id="xlTotal" example="4">%1$s</xliff:g></string>
+    <string name="cTotal">Razem: <xliff:g id="xlTotal" example="4">%1$s</xliff:g></string>
+    <string name="cThankYou">Dziękuję !</string>
+    <string name="emailSubject">Zamowienie JustJava dla <xliff:g id="xlName" example="John">%1$s</xliff:g></string>
+</resources>
