@@ -1,6 +1,6 @@
 <resources xmlns:xliff="http://schemas.android.com/tools">
     <string name="app_name">Just Java</string>
-    <string name="chkbox_whippedcream">v3 MASTER Whipped cream (+ $1)</string>
+    <string name="chkbox_whippedcream">v4 in branch test Whipped cream (+ $1)</string>
     <string name="chkbox_chocolate">v3 MASTER Chocolate (+ $2)</string>
     <string name="entername">Enter your name</string>
     <string name="quantity">QUANTITY</string>
